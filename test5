@@ -1,0 +1,6 @@
+# test.py
+def test_github_token():
+    token = "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"
+    print(f"This is a fake GitHub token: {token}")
+
+test_github_token()
